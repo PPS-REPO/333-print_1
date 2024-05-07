@@ -40,11 +40,6 @@
     ],
     "generators": [
         {
-            "name": "generator.cc",
-            "language": "cpp11",
-            "alias": "random_cc"
-        },
-        {
             "name": "generator_manual.py",
             "language": "py3",
             "alias": "manual"
