@@ -55,14 +55,7 @@
             "alias": "random_cc"
         }
     ],
-    "genscript": [
-        {
-            "script": "manual 1",
-            "description": "예제로 사용될 데이터 1번입니다.",
-            "is_example": true,
-            "only_deploy": false
-        }
-    ],
+    "genscript": [],
     "versions": {
         "config": 1,
         "repository": 1
