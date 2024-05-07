@@ -1,16 +1,27 @@
 # Problem
 
-You are given two integers $a$ and $b$.
-
-Print $a + b$.
+Programming has a input and output.
+We do first is Output.(print)
+So this problem is first of programming problem, So print a this String "Hello!"
 
 # Input
 
-The first line of input contains two integers $a$ and $b$ separated by a space.
-
-* $1 \le a \le 9$
-* $1 \le b \le 9$
+This Problem is not has input
 
 # Output
 
-Print $a + b$ on the first line of output.
+print "Hello!"
+
+Python code
+```py
+print("Hello!")
+```
+
+C++ or C code
+```c
+#include <stdio.h>
+int main(){
+  printf("Hello!");
+  return 0;
+}
+```
