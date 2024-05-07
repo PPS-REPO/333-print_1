@@ -48,7 +48,7 @@
     "genscript": [
         {
             "script": "manual 1",
-            "description": "",
+            "description": "예제로 사용될 데이터 1번입니다.",
             "is_example": true,
             "only_deploy": false
         }
